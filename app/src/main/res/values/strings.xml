@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NSensores</string>
+    <string name="hello_world">Los sensores del teléfono son:</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Iniciar">INICIAR</string>
+    <string name="Detener">DETENER</string>
+    <string name="LIMPIAR">LIMPIAR</string>
+
+
+
+    <string name="Acelerometer">ACCELEROMETER</string>
+    <string name="Magnetic">MAGNETIC_FIELD</string>
+    <string name="Proximity">TYPE_PROXIMITY</string>
+    <string name="Orientation">ORIENTATION</string>
+
+
+
+
+    <string name="campomagnetico">SENSOR CAMPO MAGNETICO</string>
+    <string name="orientacion">SENSOR ORIENTACION</string>
+    <string name="Aproximidad">SENSOR PROXIMIDAD</string>
+
+</resources>
+
